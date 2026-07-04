@@ -1,0 +1,11 @@
+Python is a high-level programming language.
+
+Python was created by Guido van Rossum.
+
+Python supports object-oriented programming.
+
+Python supports functional programming.
+
+Python is dynamically typed.
+
+Python is widely used in machine learning.

@@ -3,3 +3,6 @@ langchain-community
 langchain-ollama
 langgraph
 duckduckgo-search
+pypdf
+langchain-text-splitters
+faiss-cpu
